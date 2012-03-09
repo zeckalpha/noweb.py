@@ -1,6 +1,10 @@
 This executable document first appeared as a blog post on
 http://jonaquino.blogspot.com/2010/04/nowebpy-or-worlds-first-executable-blog.html
 
+http://www.mydarc.de/dl9obn/programming/python/pynoweb/
+https://bitbucket.org/dirkbaechle/pynoweb/src/3e64a94a6967/src/noweb.py
+http://pylit.berlios.de/literate-programming/index.html
+
 
 
 I have recently been interested in the old idea of
